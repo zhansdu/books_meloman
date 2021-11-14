@@ -1,0 +1,50 @@
+1636894114741	geckodriver	INFO	Listening on 127.0.0.1:45163
+1636894114744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51997" "-no-remote" "-profile" "/tmp/rust_mozprofile2kvFlO"
+1636894115768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2kvFlO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51997/devtools/browser/b39aa752-8c46-4c9d-bc5d-0b7313770ca2
+1636894117610	Marionette	INFO	Listening on port 41445
+1636894117667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.dynamicyield.com/api/8771345/api_static.js, line 7: TypeError: a.value is undefined
+JavaScript error: https://cdn.dynamicyield.com/api/8771345/api_static.js, line 7: TypeError: a.value is undefined
+JavaScript error: https://simg.marwin.kz/static/version1636617859/frontend/Astrio/meloman/ru_RU/magepack/bundle-common.min.js, line 1: Error: [object Object]
+JavaScript error: https://cdn.dynamicyield.com/api/8771345/api_static.js, line 7: TypeError: a.value is undefined
+JavaScript error: https://cdn.dynamicyield.com/api/8771345/api_static.js, line 7: TypeError: a.value is undefined
+JavaScript error: https://simg.marwin.kz/static/version1636617859/frontend/Astrio/meloman/ru_RU/magepack/bundle-common.min.js, line 1: Error: [object Object]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://simg.marwin.kz/static/version1636617859/frontend/Astrio/meloman/ru_RU/magepack/bundle-common.min.js, line 1: Error: [object Object]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636894417534	geckodriver	INFO	Listening on 127.0.0.1:54465
+1636894417537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36715" "-no-remote" "-profile" "/tmp/rust_mozprofileg2QyyB"
+1636894418499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg2QyyB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36715/devtools/browser/96e32dfe-62c9-4e26-a939-3b3710541574
+1636894420340	Marionette	INFO	Listening on port 43273
+1636894420361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.dynamicyield.com/api/8771345/api_static.js, line 7: TypeError: a.value is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636894532961	geckodriver	INFO	Listening on 127.0.0.1:55673
+1636894532969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60253" "-no-remote" "-profile" "/tmp/rust_mozprofileiCFpMH"
+1636894533950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiCFpMH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60253/devtools/browser/ff8adc3f-e1ce-4bae-8e5c-67a102a71f78
+1636894535779	Marionette	INFO	Listening on port 41247
+1636894535893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://simg.marwin.kz/static/version1636617859/_cache/merged/252f5a97929051427640661565d54881.min.js, line 16: Error: Script error for: Amasty_ShopbyBase/js/swiper.min
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://simg.marwin.kz/static/version1636617859/_cache/merged/252f5a97929051427640661565d54881.min.js, line 16: Error: Script error for: Amasty_ShopbyBase/js/swiper.min
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
